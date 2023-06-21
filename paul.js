@@ -7,6 +7,6 @@ else {
 }
 }
 
-console.log(makeEspresso (true, false));
+console.log("coffe: true cream: false: ", makeEspresso (true, false));
 
 console.log(makeEspresso (true, true));
