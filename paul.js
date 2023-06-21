@@ -7,6 +7,6 @@ else {
 }
 }
 
-makeEspresso (true, false);
+console.log(makeEspresso (true, false));
 
-makeEspresso (true, true);
+console.log(makeEspresso (true, true));
