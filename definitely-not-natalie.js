@@ -1,1 +1,1 @@
-console.log("Hey! You're great!")
+console.log("Hey! You're amazing!")
